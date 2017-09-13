@@ -4,7 +4,7 @@ import static org.junit.Assert.*;
 
 import org.junit.Test;
 
-import com.copart.codecoverage.CodeCoverageDemo;
+import codecoverage.CodeCoverageDemo;
 
 public class CodeCoverageDemoTest {
 
