@@ -42,7 +42,7 @@
 			      </dependency>
 			    </dependencies>
 			</plugin>
- 			<plugin>
+ 			<!-- <plugin>
 				<groupId>org.jacoco</groupId>
 				<artifactId>jacoco-maven-plugin</artifactId>
 				<version>${jacoco.version}</version>
@@ -77,8 +77,8 @@
 						<jacoco-agent.destfile>target/jacoco.exec</jacoco-agent.destfile>
 					</systemPropertyVariables>
 				</configuration>
-			</plugin>
-			<!--  <plugin>
+			</plugin> -->
+			<plugin>
                 <groupId>org.codehaus.mojo</groupId>
                 <artifactId>cobertura-maven-plugin</artifactId>
                 <version>2.5.1</version>
@@ -95,7 +95,7 @@
                         </goals>
                     </execution>
                 </executions>
-            </plugin> -->
+            </plugin>
 		</plugins>
 	</build>
 
