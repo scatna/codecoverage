@@ -15,4 +15,10 @@ public class CodeCoverageDemoTest {
 		assertEquals(25,a);
 	}
 
+	@Test
+	public void testCube() {
+		CodeCoverageDemo demo = new CodeCoverageDemo();
+		int a = demo.cube(5);
+		assertEquals(125,a);
+	}
 }
