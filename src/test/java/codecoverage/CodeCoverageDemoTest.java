@@ -21,4 +21,11 @@ public class CodeCoverageDemoTest {
 		int a = demo.cube(5);
 		assertEquals(125,a);
 	}
+	
+	@Test
+	public void testProduct() {
+		CodeCoverageDemo demo = new CodeCoverageDemo();
+		int a = demo.product(5,6);
+		assertEquals(30,a);
+	}
 }
