@@ -4,8 +4,6 @@
   <artifactId>codecoverage</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
-  
-  
   	<properties>
 		<jacoco.version>0.7.5.201505241946</jacoco.version>
 		<junit.version>4.7</junit.version>
@@ -98,8 +96,4 @@
             </plugin>
 		</plugins>
 	</build>
-
-
-	
-	
 </project>

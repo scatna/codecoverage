@@ -13,7 +13,6 @@ public class CodeCoverageDemoTest {
 		CodeCoverageDemo demo = new CodeCoverageDemo();
 		int a = demo.square(5);
 		assertEquals(25,a);
-		
 	}
 
 }
