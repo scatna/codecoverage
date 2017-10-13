@@ -17,10 +17,11 @@
 			<version>${junit.version}</version>
 			<scope>test</scope>
 		</dependency>
+		
 		<dependency>
 			<groupId>ibm</groupId>
 			<artifactId>as401</artifactId>
-			<version>1.0</version>
+			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
 	<build>
