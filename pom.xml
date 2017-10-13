@@ -18,6 +18,7 @@
 			<scope>test</scope>
 		</dependency>
 		
+		
 		<dependency>
 			<groupId>org</groupId>
 			<artifactId>myassist</artifactId>
