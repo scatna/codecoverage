@@ -17,6 +17,12 @@
 			<version>${junit.version}</version>
 			<scope>test</scope>
 		</dependency>
+		
+		<dependency>
+			<groupId>org</groupId>
+			<artifactId>myassist</artifactId>
+			<version>GA3.1</version>
+		</dependency>
 	</dependencies>
 	<build>
 		<plugins>
