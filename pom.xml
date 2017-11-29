@@ -8,6 +8,7 @@
   	<properties>
 		<jacoco.version>0.7.5.201505241946</jacoco.version>
 		<junit.version>4.7</junit.version>
+		<tag_number>123</tag_number>
 	</properties>
 
 	<dependencies>
