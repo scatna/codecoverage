@@ -10,6 +10,7 @@
 		<junit.version>4.7</junit.version>
 		<tag_number>123</tag_number>
 		<tag_build>456</tag_build>
+		<demo_tag>1234</demo_tag>
 	</properties>
 
 	<dependencies>
@@ -18,12 +19,6 @@
 			<artifactId>junit</artifactId>
 			<version>${junit.version}</version>
 			<scope>test</scope>
-		</dependency>
-		
-		<dependency>
-			<groupId>ibm</groupId>
-			<artifactId>as401</artifactId>
-			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
 	<build>
