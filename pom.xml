@@ -10,7 +10,7 @@
 		<junit.version>4.7</junit.version>
 		<tag_number>123</tag_number>
 		<tag_build>456</tag_build>
-		<demo_tag>1234</demo_tag>
+		<demo_tag>123456</demo_tag>
 	</properties>
 
 	<dependencies>
